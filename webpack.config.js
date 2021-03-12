@@ -7,7 +7,7 @@ const mode = process.env.NODE_ENV || "production";
 const configuration = {
   // @ts-ignore
   mode,
-  entry: path.resolve(__dirname, "src", "index.tsx"),
+  entry: path.resolve(__dirname, "src", "index.ts"),
   output: {
     filename: `worker.${mode}.js`,
     path: path.resolve(__dirname, "dist"),
