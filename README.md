@@ -17,7 +17,7 @@ And create a new repository from GitHub and select it.
 
 ## Development
 
-Run `yarn start` command and edit [`src/index.tsx`](src/index.tsx).
+Run `yarn start` command and edit [`src/index.ts`](src/index.ts).
 
 ## Testing
 
