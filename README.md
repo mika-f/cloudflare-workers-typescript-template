@@ -26,4 +26,4 @@ Edit the files in the `__tests__` directory and run `yarn test` command.
 
 ## License
 
-MIT by [@6jz](https://twitter.com/6jz)
+Apache 2.0 OR MIT by [@6jz](https://twitter.com/6jz)
